@@ -1,1 +1,1 @@
-My personal website. This page is hosted through [Github Pages](https://pages.github.com/) and made using [Jekyll](https://jekyllrb.com/). Any questions about the site can be directed to my email at [yash.shukla@usask.ca](mailto:yash.shukla.ca).
+My personal website. This page is hosted through [Github Pages](https://pages.github.com/) and made using [Jekyll](https://jekyllrb.com/). Any questions about the site can be directed to my email at [yash.shukla@usask.ca](mailto:yash.shukla@usask.ca).
