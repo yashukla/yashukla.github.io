@@ -35,19 +35,12 @@
     </header>
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
     </header>
 
     <main id="content" class="main-content" role="main">
       {{ content }}
     </main>
     <footer class="site-footer" role="banner">
-        <nav>
-          <tr>
-            <th><a href="mailto:yash.shukla@usask.ca" style = "color:#fff">email</a></th>
-            <th><a href="https://www.linkedin.com/in/yash-shukla-8a5781157/" style = "color:#fff">LinkedIn</a></th>
-          </tr>
-        </nav>
         {% if site.github.is_project_page %}
           {{ site.title | default: site.github.repository_name }} is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a><br>
         {% endif %}
